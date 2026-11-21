@@ -7,7 +7,7 @@
 
 **Rescue Sky (SKYRESCUE)** is an interactive arcade-style rescue flight game that puts players in the role of a rescue pilot navigating challenging environments to deliver emergency supplies to people affected by disasters.
 
-Built for **GDG Live Pakistan DevFest 2026**, the project combines arcade gameplay with generative AI to make rescue missions more dynamic, engaging, and interactive.
+The project combines arcade gameplay with generative AI to make rescue missions more dynamic, engaging, and interactive.
 
 Players navigate their aircraft through dangerous weather conditions, collect relief supplies, manage their aircraft's health, and complete rescue objectives. Gemini AI enhances the experience by generating mission briefings and providing personalized flight debriefs.
 
@@ -61,9 +61,6 @@ It demonstrates how AI can move beyond conventional chat interfaces and become p
 
 > This project is an educational arcade simulation. It does not represent a real-world emergency response or rescue coordination system.
 
-## Built For
-
-**GDG Live Pakistan DevFest 2026**
 
 Exploring the possibilities of AI-powered interactive experiences with Google AI Studio and Gemini.
 
