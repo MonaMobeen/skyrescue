@@ -1,0 +1,8 @@
+{
+  "name": "SKYRESCUE",
+  "description": "AI-powered arcade rescue flight game built for GDG Live Pakistan DevFest 2026 featuring Gemini mission generation, tactical mission control, and personalized flight debriefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
